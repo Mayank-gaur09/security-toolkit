@@ -1,1 +1,7 @@
-/.idea
+# Ignore IDE settings folders
+.idea/
+.vscode/
+
+# Ignore Python temporary/cached files
+__pycache__/
+*.pyc
