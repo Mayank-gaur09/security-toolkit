@@ -6,6 +6,7 @@ A collection of Python scripts built to practice core security concepts such as 
 ## Tool 1: TCP Port Scanner
 
 **File:** port-scanner.py
+
 **Description:** It is a simple port scanner that scans a target's IP address across common network ports (22, 80, 443, 8080) to test if they are open or closed, whcih can indicate potential entry points into a system.
 
 
