@@ -25,3 +25,15 @@
 
 <img width="350" height="100" alt="image" src="https://github.com/user-attachments/assets/e3c90d80-6190-4385-9fd1-640228e2fce4" />
 
+
+## How to run the program:
+
+1. Clone the repo in terminal
+`git clone https://github.com/Mayank-gaur09/security-toolkit.git`
+`cd "security-toolkit/TCP Port Scanner"`
+
+2. Run the Script
+`python3 port-scanner.py`
+
+3. Enter your target IP
+
