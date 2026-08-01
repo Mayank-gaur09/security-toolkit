@@ -18,3 +18,10 @@
 - **Networking Fundamentals:** How TCP connections use ports such as 80 for HTTP and 22 for SSH to route network traffic.
 - **Python Networking Programming:** Use of `socket.SOCK_STREAM` to test port states and that it estabilishes a reliable TCP connection.
 - Ethical Hacking Principles such as only testing on authorized hostnames such as "localhost" , "scan.nmap.org" or my own network.
+
+
+### Expected Outcome
+*using localhost as a target*
+
+<img width="242" height="72" alt="image" src="https://github.com/user-attachments/assets/e3c90d80-6190-4385-9fd1-640228e2fce4" />
+
