@@ -29,12 +29,16 @@
 ## How to run the program:
 
 1. Clone the repo in terminal
+2. 
 `git clone https://github.com/Mayank-gaur09/security-toolkit.git`
 
 `cd "security-toolkit/TCP Port Scanner"`
 
 3. Run the Script
+
 `python3 port-scanner.py`
 
-4. Enter your target IP
+5. Enter your target IP
+
+such as `localhost` , `scan.nmap.org` or your own IP address
 
