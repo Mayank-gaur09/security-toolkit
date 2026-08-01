@@ -30,10 +30,11 @@
 
 1. Clone the repo in terminal
 `git clone https://github.com/Mayank-gaur09/security-toolkit.git`
+
 `cd "security-toolkit/TCP Port Scanner"`
 
-2. Run the Script
+3. Run the Script
 `python3 port-scanner.py`
 
-3. Enter your target IP
+4. Enter your target IP
 
