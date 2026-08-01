@@ -29,7 +29,7 @@
 ## How to run the program:
 
 1. Clone the repo in terminal
-2. 
+
 `git clone https://github.com/Mayank-gaur09/security-toolkit.git`
 
 `cd "security-toolkit/TCP Port Scanner"`
