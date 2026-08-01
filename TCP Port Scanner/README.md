@@ -23,5 +23,5 @@
 ### Expected Outcome
 *using localhost as a target*
 
-<img width="242" height="72" alt="image" src="https://github.com/user-attachments/assets/e3c90d80-6190-4385-9fd1-640228e2fce4" />
+<img width="350" height="100" alt="image" src="https://github.com/user-attachments/assets/e3c90d80-6190-4385-9fd1-640228e2fce4" />
 
