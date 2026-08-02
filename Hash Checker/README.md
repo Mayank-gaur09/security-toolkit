@@ -23,6 +23,7 @@
 ## Expected Outcome:
 *using hash-checker.py as the target file*
 
+<img width="1000" height="210" alt="image" src="https://github.com/user-attachments/assets/e6b9ddc2-5596-4a86-9ffe-957ce7d717a7" />
 
 
 
