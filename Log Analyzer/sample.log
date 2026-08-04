@@ -1,0 +1,7 @@
+Jan 1 10:00:01 server sshd: Failed password for admin from 192.168.1.10
+Jan 2 10:00:05 server sshd: Failed password for admin from 192.168.1.10
+Jan 3 10:00:09 server sshd: Failed password for root from 192.168.1.15
+Jan 4 10:00:12 server sshd: Accepted password for mayank from 192.168.1.20
+Jan 5 10:00:15 server sshd: Failed password for admin from 192.168.1.10
+Jan 5 10:00:20 server sshd: Failed password for admin from 192.168.1.10
+Jan 5 10:00:30 server sshd: Accepted password for mayank from 192.168.1.20
