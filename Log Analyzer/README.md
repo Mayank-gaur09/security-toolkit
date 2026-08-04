@@ -1,6 +1,6 @@
 # Tool 4: Log Analyzer
 
-**File:**
+**File:** [Log Analyser](./log-analyzer.py)
 
 **Description:** This tool reads through a log file line by line and counts any failed login attempts as well as the IP address it came from and also flags hem with 3 or more failures. It is helpful to spot brute force attacks.
 
@@ -18,7 +18,7 @@
 
 ## Expected Outcome:
 
-
+<img width="925" height="250" alt="image" src="https://github.com/user-attachments/assets/a18bfd2f-35c4-47a6-b4f1-29e741b58af8" />
 
 
 ## How to run:
@@ -33,4 +33,4 @@
 
    `python3 log-analyzer.py`
 
-3. Enter the log file path when prompted 
+3. Enter the log file path when prompted, use [sample log file](./sample.log) if needed

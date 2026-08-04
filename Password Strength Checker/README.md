@@ -1,6 +1,6 @@
 # Tool 3: Password Strength Checker
 
-**File:**
+**File:** [Password Strength Checker](./password-checker.py)
 
 **Description:** This tool evaluates the strength of a password against five common strength criteria; The minimum length and whether it contains uppercase letters, lowercase letters, numbers and symbols. Depending on how many criteria are met, the script rates the password as Weak, Mediocre or Strong.
 
@@ -20,6 +20,7 @@
 ## Expected Outcome:
 
 
+<img width="1000" height="270" alt="image" src="https://github.com/user-attachments/assets/60ee9696-193c-48ce-9c46-eab9bc6c2544" />
 
 
 
@@ -33,7 +34,7 @@
 2. Run the script
    `python3 password-checker.py`
 
-3. Enter a password to check
+3. Enter a password to check.
 
 
 

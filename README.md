@@ -11,5 +11,8 @@ A collection of Python scripts built to practice core security concepts such as 
 ## Included Tools:
 
 
-1 . [TCP Port Scanner](././TCP%20Port%20Scanner/README.md) | Scans target hosts for open TCP ports
+1. [TCP Port Scanner](././TCP%20Port%20Scanner/README.md) | Scans target hosts for open TCP ports
+2. [Hash Checker](././Hash%20Checker/README.md) | Calculates and verifies file hashes to check file integrity
+3. [Password Strength Checker](././Password%20Strength%20Checker/README.md) | evaluates the password to check their strength
+4. [Log Analyzer](././Log%20Analyzer/README.md) | Scans log files for failed login attempts and suspicious activity
 
