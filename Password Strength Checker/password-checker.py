@@ -3,8 +3,8 @@ def password_strength(password):
     uppercase = any(char.isupper() for char in password)
     lowercase = any(char.islower()for char in password)
     number = any(char.isdigit()for char in password)
-    symbol = any(not char.isalnum() for char in password)
-
+    symbol = any(not char.isalnum() for char in password) # for symbols
+    # True is 1 and False is 0 so we sum up to get the toal points
     points = sum([length, uppercase, lowercase, number, symbol])
 
     if points == 5:

@@ -3,8 +3,10 @@ def log_analyzer(logfilepath):
     with open(logfilepath, 'r') as log_file:
         for line in log_file:
             if "Failed password" in line:
+                # Extracts the IP address
                 parts = line.split("from")
                 ip_address = parts[1].strip()
+                # counts how many times the IP address has failed login attempts
                 if ip_address in ip_address_failed:
                     ip_address_failed[ip_address] = ip_address_failed[ip_address] + 1
                 else:
