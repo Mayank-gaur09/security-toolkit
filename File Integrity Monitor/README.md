@@ -1,6 +1,6 @@
 # Tool 6: File Integrity Monitor
 
-**File**: [file-integrity-monitor.py
+**File**: [Python File Integrity Monitor](./file-integrity-monitor.py)
 
 **Description:** The file integrity monitor checks whether a file has been modified by comparing it's hash against a hash taken earlier. The user inputs a set of file or files they want to check, the tool saves their hashes into the baseline file and later you can run a check to see if there has been any changes to your file when compared against the baselin. It helps detect malicious changes to the file that were not done by you.
 
@@ -12,8 +12,7 @@
 - When checking the integrity, the tool loads the saved baseline, hashes the files again and compares the hashes, if the hashes don't match then there has been changes to the file. If a file is missing entirely, its been deleted or moved.
 - Files are read in 8192 byte chunks instead of all at once to reduce memory usage.
 
-
-## What I learned
+## What I learned
 
 - I reused the hashing logic from my Hash Checker tool but for a different purpose, checking files over time to detect changes instead of just once.
 - Reading files in smaller byte chunks instead of loading the whole file into memory at once.
@@ -33,6 +32,8 @@
 
 
 *after editing the file*
+
+
 <img width="660" height="135" alt="image" src="https://github.com/user-attachments/assets/e569dbb8-c636-4db0-be13-acd75903ca05" />
 
 
