@@ -1,0 +1,5 @@
+Sample file to use in the File Integrity Monitor
+
+The quick brown fox jumps over the lazy dog
+
+Feel free to edit this file and re run the File Integrity Monitor again to see it flagged.
